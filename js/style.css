@@ -1,0 +1,10 @@
+label:hover{
+    
+    background-color: aquamarine;
+}
+label:active{
+    background-color: bisque;
+}
+label:default{
+    background-color: antiquewhite;
+}
